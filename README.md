@@ -3,7 +3,7 @@ Site novo para teste de SEO
 
 #criação de site novo para teste de desenpenho 
 
-#pages
+Pages
 1- home
 2- empresa
 3- serviços
@@ -11,6 +11,6 @@ Site novo para teste de SEO
 5- contato
 
 
-#proposta do site 
+Proposta do site 
 ranckear no google o site em comparação ao CMS wordpress
 
